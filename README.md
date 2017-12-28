@@ -14,7 +14,7 @@ Annette Jensen
 In this project we learned the importance of version control as well as how to utilize it.  We also worked more with editing bootstraps.
 
 ## View Project:
-https://preview.c9users.io/ajensen/jensen_lesson3_versioncontrol/Lesson3_Highlights/index.html?_c9_id=livepreview0&_c9_host=https://ide.c9.io#
+https://ajensensms.github.io/lesson3_VersionControl/Lesson3_Highlights/index.html
 
 
 
