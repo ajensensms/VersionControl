@@ -13,8 +13,7 @@ Annette Jensen
 ## Project Description:
 In this project we learned the importance of version control as well as how to utilize it.  We also worked more with editing bootstraps.
 
-## View Project:
-https://ajensensms.github.io/lesson3_VersionControl/Lesson3_Highlights/index.html
+
 
 
 
